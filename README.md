@@ -1,1 +1,1 @@
-https://shu-sam.github.io/rsschool-cv
+https://shu-sam.github.io/rsschool-cv/
