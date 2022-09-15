@@ -1,4 +1,3 @@
-<img src="avatar.jpg" width="200"/>
 
 Alexandr Samusevich
 ===================
